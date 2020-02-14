@@ -1,5 +1,6 @@
-## Assignment 1 Answers
----
+# Assignment 1 Answers
+
+### Part A
 
 1. 
 
@@ -15,7 +16,7 @@
 
     Multiplicative inverse of Z11 are 1, 2, 3, 5, 7
 
-3.  gcd(56245 & 43159)
+3.  __gcd(56245 & 43159)__
 
     56245 = 1 x 43159 + 13086
     
@@ -45,7 +46,7 @@
 
     hence gcd(56245 & 43159) = 1
 
-4. $\phi$(3<sup>4</sup>) = 3<sup>4</sup> - 3<sup>4 -1</sup>
+4. __phi (3<sup>4</sup>) = 3<sup>4</sup> - 3<sup>4 -1</sup>__
     
     = 3<sup>4 -1</sup>(3 - 1)
     
@@ -61,7 +62,7 @@
     
     = 1024 x (1 / 2) = 512
 
-5. 3<sup>100</sup> mod(31319)
+5. __3<sup>100</sup> mod(31319)__
 
     100<sub>10</sub> -> (1100100)<sub>2</sub>
     
