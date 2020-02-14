@@ -1,10 +1,10 @@
 # Assignment 1 Answers
 
-### Part A
+## Part A
 
-1. ![image](https://i.imgur.com/Zcw0KS3.png)
+![image](https://i.imgur.com/Zcw0KS3.png)
 
-2. ![image](https://i.imgur.com/GACbVX1.png)
+![image](https://i.imgur.com/GACbVX1.png)
 
     __Z<sub>5<sub>__
 
@@ -12,13 +12,13 @@
 
     Multiplicative inverse of Z5 are 1, 2, 3
 
-    __<sub>11<sub>__
+    __Z<sub>11<sub>__
 
     range between 0 - 10
 
     Multiplicative inverse of Z11 are 1, 2, 3, 5, 7
 
-3.  ![image](https://i.imgur.com/VCwO0Gu.png)
+ ![image](https://i.imgur.com/VCwO0Gu.png)
 
     __gcd(56245 & 43159)__
 
@@ -50,7 +50,7 @@
 
     hence gcd(56245 & 43159) = 1
 
-4. ![image](https://i.imgur.com/qDbnTni.png)
+![image](https://i.imgur.com/qDbnTni.png)
     
     __phi (3<sup>4</sup>) = 3<sup>4</sup> - 3<sup>4 -1</sup>__
     
@@ -68,7 +68,7 @@
     
     = 1024 x (1 / 2) = 512
 
-5. ![image](https://i.imgur.com/oIU29Ux.png)
+ ![image](https://i.imgur.com/oIU29Ux.png)
     
     __3<sup>100</sup> mod(31319)__
 
