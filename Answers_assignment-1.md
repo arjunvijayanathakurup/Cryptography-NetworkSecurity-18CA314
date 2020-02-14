@@ -2,9 +2,11 @@
 
 ### Part A
 
-1. 
+1. ![image](https://i.imgur.com/Zcw0KS3.png)
 
-2. __Z<sub>5<sub>__
+2. ![image](https://i.imgur.com/GACbVX1.png)
+
+    __Z<sub>5<sub>__
 
     range between 0 - 4
 
@@ -16,7 +18,9 @@
 
     Multiplicative inverse of Z11 are 1, 2, 3, 5, 7
 
-3.  __gcd(56245 & 43159)__
+3.  ![image](https://i.imgur.com/VCwO0Gu.png)
+
+    __gcd(56245 & 43159)__
 
     56245 = 1 x 43159 + 13086
     
@@ -46,7 +50,9 @@
 
     hence gcd(56245 & 43159) = 1
 
-4. __phi (3<sup>4</sup>) = 3<sup>4</sup> - 3<sup>4 -1</sup>__
+4. ![image](https://i.imgur.com/qDbnTni.png)
+    
+    __phi (3<sup>4</sup>) = 3<sup>4</sup> - 3<sup>4 -1</sup>__
     
     = 3<sup>4 -1</sup>(3 - 1)
     
@@ -62,7 +68,9 @@
     
     = 1024 x (1 / 2) = 512
 
-5. __3<sup>100</sup> mod(31319)__
+5. ![image](https://i.imgur.com/oIU29Ux.png)
+    
+    __3<sup>100</sup> mod(31319)__
 
     100<sub>10</sub> -> (1100100)<sub>2</sub>
     
