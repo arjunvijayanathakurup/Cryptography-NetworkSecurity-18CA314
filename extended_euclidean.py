@@ -16,7 +16,7 @@ def ext_euc(a, b):
         old_t += r
     return old_s
 
-print("gcd(a, b) => Enter a and b: ")
+print("gcd(a, m) => Enter a and m: ")
 a = int(input())
 b = int(input())
 print(ext_euc(a, b))
